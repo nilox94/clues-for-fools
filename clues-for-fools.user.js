@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Clues for Fools
 // @namespace    https://github.com/nilox94/
+// @copyright    2026, Danilo Gómez
+// @license      Apache-2.0
 // @version      0.1.3
 // @description  Speedrun Clues by Sam with high-visibility highlights that make leads impossible to miss.
 // @author       nilox94
