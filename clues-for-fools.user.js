@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Cleaner Clues by Sam
+// @name         Clues for Fools
 // @namespace    https://github.com/nilox94/
 // @version      0.1.3
-// @description  Solve Clues by Sam faster by making clues easier to read.
+// @description  Speedrun Clues by Sam with high-visibility highlights that make leads impossible to miss.
 // @author       nilox94
 // @match        https://cluesbysam.com/
 // @icon         https://cluesbysam.com/images/favicon-64x64.png
